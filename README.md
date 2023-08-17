@@ -18,6 +18,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,firebase,vercel,netlify,vscode,cs,net,postman,visualstudio)](https://skillicons.dev)
 
-# 🌐 Socials:
+# 🌐 Socials
 [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/danylo-zymbalevskyi)
 
