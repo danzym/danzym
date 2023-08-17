@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">I am a dedicated front-end developer currently learning the MERN stack and eager to become a full-stack developer.</h3>
-![coding](https://i.imgur.com/wui4bXl.gif)
-
+![coding](https://raw.githubusercontent.com/danzym/danzym/main/assets/107991460/f947a2c9-59f7-4c0d-ae58-9150f7c30938.gif)
 
 ## 💻 Tech Stack
 #### Experienced with:
