@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, you can call me Daniel</h1>
+<h1 align="center">Hi 👋🏻, you can call me Daniel</h1>
 <h3 align="center">I am a dedicated front-end developer currently learning the MERN stack and eager to become a full-stack developer.</h3>
 
 # 💻 Tech Stack
