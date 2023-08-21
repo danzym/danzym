@@ -3,9 +3,9 @@
 
 # 💻 Tech Stack
 ### Experienced with:
-* HTML, CSS, JavaScript, Tailwind, Bootstrap
+* HTML, CSS, JavaScript
   * Libraries: React.js
-  * Frameworks: Next.js
+  * Frameworks: Next.js, Tailwind, Bootstrap
   * Platforms: Firebase
   * Hosting: Vercel, Netlify
   * IDE: Visual Studio Code
