@@ -5,7 +5,8 @@
 ### Experienced with:
 * HTML, CSS, JavaScript
   * Libraries: React.js
-  * Frameworks: Next.js, Tailwind, Bootstrap
+  * CSS Frameworks: Tailwind, Bootstrap
+  * React Frameworks: Next.js
   * Platforms: Firebase
   * Hosting: Vercel, Netlify
   * IDE: Visual Studio Code
