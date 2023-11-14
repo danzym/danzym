@@ -20,6 +20,7 @@
 * IDE: Visual Studio Code
 
 
+
 [![My Skills](https://skillicons.dev/icons?i=postman,git,html,css,js,tailwind,bootstrap,react,nextjs,firebase,vercel,netlify,vscode)](https://skillicons.dev)
 
 # 🌐 Socials
