@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋🏻 You can call me Daniel</h1>
-<h3 align="center">I am a committed QA Engineer with a strong interest in front-end development. My professional path is currently focused on extensively exploring both Manual and Automation Testing. I aspire to merge my expertise in QA and front-end development to excel as a Quality Assurance specialist.</h3>
+<h3 align="center"></h3>
 
 # 💻 Tech Stack
 ### Experienced with:
