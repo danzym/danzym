@@ -2,17 +2,8 @@
 <h3 align="center"></h3>
 
 # 💻 Tech Stack
-### Experienced with:
-* Test Management Tools: Jira, Test Rail
-* Documentation: Confluence
-* API Testing Tools: Postman
-* Browser Debugging Tools: Dev Tools
-* Languages: SQL
-* Version Control: Git
-* SDLC Methodologies: Agile
-### Familiar with:
 * Languages: HTML, CSS, JavaScript
-* Libraries: React.js, Playwright
+* Libraries: React.js
 * CSS Frameworks: Tailwind, Bootstrap
 * React Frameworks: Next.js
 * Platforms: Firebase
